@@ -1,0 +1,2 @@
+# dancer
+用perl中的web框架dancer实现一个简单的功能。在web端能展示一个table，table有两列，分别是你指定的一个目录下面的文件的时间和文件名。 需要考虑把获取数据和展示分离，不要直接print这个table的整个html字符串。
