@@ -1,0 +1,1 @@
+解析ifconfig命令的标准输出，返回一个hash。key是网卡名称 value是对应的ip。
